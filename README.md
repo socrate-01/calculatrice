@@ -1,0 +1,3 @@
+# calculatrice
+Simple projet de calculatrice avec python...
+Ce projet est une calculatrice qui permet d'effectuer des calculs en vérifiant à chaque saisie de l'utilisateur, l'information rentrée. Si c'est un nombre alors elle effectue le calcul et ci c'est autre chose, elle notifie à l'utilisateur l'erreur.
